@@ -1,4 +1,4 @@
-# Java-Palindrome-
+# Development
 This is a Java palindrome assignment we had to complete for a second-year module to cover the fundamentals of Java.
 
 ##<h2> Description of Palindrome 
